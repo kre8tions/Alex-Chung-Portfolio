@@ -1,7 +1,6 @@
-# Alex_Chung_Portfolio
-Alex Chung's Data Science Portfolio
+# Alex Chung's Data Science Portfolio
 
-# Project 1: Analyzing YouTube Trending Videos
+# [Project 1: Analyzing YouTube Trending Videos](https://github.com/kre8tions/Analyzing-YouTube-Trending-Videos)
 Project Goal: The goal of this project is to analyze what YouTube videos are trending from a dataset scraped from YouTube’s Trending Page in order to find common characteristics of trending videos and attempt to predict and reproduce results.
 
 David Dobrik, one of these trending content creators, for example started his YouTube channel in 2015 and built it to be the fifth-most viewed creator channel on YouTube in 2019 and producing an annual income of $13 million dollars.
