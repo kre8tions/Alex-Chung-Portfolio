@@ -11,6 +11,10 @@ Project Goal: The goal of this project is to analyze what YouTube videos are tre
 * Apply NLP on video descriptions to find most viewed topics and videos
 * Cross validate our model
 
+![](https://github.com/kre8tions/Alex_Chung_Portfolio/blob/main/Images/YouTube%20Trending%20Videos.png)
+
+
+
 
 # [Project 2: NLP of Covid19 Tweets](https://github.com/kre8tions/NLP-of-Covid19-Tweets)
 2020 has been a unique year with the Coronavirus putting the world in lockdown, forcing us to adjust to “new normals” . There hasn’t been a time when people all over the world go into self-seclusion for an entire year such as we have done. Our goal is to work with twitter feeds scraped from March 30th to April 30th, 2020 and to see if we could explore some questions in this worldwide laboratory.
@@ -22,3 +26,5 @@ Project Goal: The goal of this project is to analyze what YouTube videos are tre
 * Vectorize our processed text to start the natural learning process using scikit-learn and spaCy.
 * Use KMeans Clustering to discover topical clusters
 * Finally, we will extract important topical keywords using Latent Dirichlet Allocation
+
+![](https://github.com/kre8tions/Alex_Chung_Portfolio/blob/main/Images/NLP%20of%20Covid19%20Tweets.png)
