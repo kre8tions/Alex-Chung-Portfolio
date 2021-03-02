@@ -1,3 +1,5 @@
+# Alex Chung's Portfolio
+
 # [Project 1: Analyzing YouTube Trending Videos](https://github.com/kre8tions/Analyzing-YouTube-Trending-Videos)
 Project Goal: The goal of this project is to analyze what YouTube videos are trending from a dataset scraped from YouTube’s Trending Page in order to find common characteristics of trending videos and attempt to predict and reproduce results.
 
