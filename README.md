@@ -5,11 +5,11 @@ Project Goal: The goal of this project is to analyze what YouTube videos are tre
 
 ### Our Approach:
 
-* Start with Data Wrangling and EDA to get an understanding of our data
-* Do some feature engineer if needed along the way
-* Visualize our data
-* Apply NLP on video descriptions to find most viewed topics and videos
-* Cross validate our model
+* Data Wrangling and EDA to get an understanding of our data
+* Feature engineering along the way
+* Visualizing our data
+* Applying NLP on video descriptions to find most viewed topics and videos
+* Cross validating our model
 
 ![](https://github.com/kre8tions/Alex_Chung_Portfolio/blob/main/Images/YouTube%20Trending%20Video.JPG)
 
@@ -21,10 +21,10 @@ Project Goal: The goal of this project is to analyze what YouTube videos are tre
 
 ### Our Process:
 
-* Prep our data thru exploratory data analysis and data wrangling
-* Clean, lemmanize, tokenize our text
-* Vectorize our processed text to start the natural learning process using scikit-learn and spaCy.
-* Use KMeans Clustering to discover topical clusters
-* Finally, we will extract important topical keywords using Latent Dirichlet Allocation
+* Prepping our data thru exploratory data analysis and data wrangling
+* Cleaning, lemmatizing and tokenizing our text
+* Vectorizing our processed text and start the natural learning process using scikit-learn and spaCy.
+* Using KMeans Clustering to discover topical clusters
+* Finally, extracting important topical keywords using Latent Dirichlet Allocation
 
 ![](https://github.com/kre8tions/Alex_Chung_Portfolio/blob/main/Images/NLP%20of%20Covid19%20Tweets.JPG)
