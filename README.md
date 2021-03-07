@@ -11,7 +11,7 @@ Project Goal: The goal of this project is to analyze what YouTube videos are tre
 * Applying NLP on video descriptions to find most viewed topics and videos
 * Cross validating our model
 
-![](https://github.com/kre8tions/Alex_Chung_Portfolio/blob/main/Images/YouTube%20Trending%20Video.JPG)
+![](https://github.com/kre8tions/Alex_Chung_Portfolio/blob/main/Images/YouTube%20Trending%20Video.jpg)
 
 
 
@@ -27,4 +27,4 @@ Project Goal: The goal of this project is to analyze what YouTube videos are tre
 * Using KMeans Clustering to discover topical clusters
 * Finally, extracting important topical keywords using Latent Dirichlet Allocation
 
-![](https://github.com/kre8tions/Alex_Chung_Portfolio/blob/main/Images/NLP%20of%20Covid19%20Tweets.JPG)
+![](https://github.com/kre8tions/Alex_Chung_Portfolio/blob/main/Images/NLP%20of%20Covid19%20Tweets.jpg)
