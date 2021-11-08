@@ -1,6 +1,13 @@
 # Alex Chung's Portfolio
 
 ## [Predicting Term Deposit Conversion](https://github.com/kre8tions/Apziva/blob/main/cbxr8ZpqR79rOXna/cbxr8ZpqR79rOXna.ipynb)
+Project Goal:  Our task was to analyze data from direct marketing efforts of a European banking institution to provide data driven insights and recommendations.  
+
+### Key takeaways:
+
+* Our data has 40,000 observations.
+* We identified key features that have high impact on campaign success and provided recommendations.
+* We built a machine learning model that corrected predicted customers who would respond positively to the marketing campaign with 99% recall score saving the client a potential 2,000 hours call time. 
 
 ![](https://github.com/kre8tions/Apziva/blob/main/cbxr8ZpqR79rOXna/term-deposit-marketing.PNG)
 
