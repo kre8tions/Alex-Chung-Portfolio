@@ -1,5 +1,9 @@
 # Alex Chung's Portfolio
 
+## [Predicting Term Deposit Conversion](https://github.com/kre8tions/Apziva/blob/main/cbxr8ZpqR79rOXna/cbxr8ZpqR79rOXna.ipynb)
+
+![](https://github.com/kre8tions/Apziva/blob/main/cbxr8ZpqR79rOXna/term-deposit-marketing.PNG)
+
 ## [Analyzing and Predicting YouTube Trending Videos](https://github.com/kre8tions/Analyzing-YouTube-Trending-Videos)
 Project Goal: The goal of this project is to analyze and predict what YouTube videos are trending from a dataset scraped from YouTube’s Trending Page in order to find common characteristics of trending videos and attempt to predict and reproduce results.
 
