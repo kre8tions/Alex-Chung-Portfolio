@@ -8,9 +8,11 @@ Project Goal:  Our task was to analyze data from direct marketing efforts of a E
 * Identified key features that have high impact on campaign success and provided recommendations.
 * Built a machine learning model that corrected predicted customers who would respond positively to the marketing campaign with 99% recall score saving the client a potential 2,000 hours call time. 
 
-## [Malaria Detection using Convolutional Neural Network](https://https://github.com/kre8tions/Malaria-Detection_CNN/blob/main/AlexChung_Malaria_Detection_Capstone_Project_Final%20Submission_Report%20Slides.pdf)
-
 ![](https://github.com/kre8tions/Apziva/blob/main/cbxr8ZpqR79rOXna/term-deposit-marketing.PNG)
+
+
+
+## [Malaria Detection using Convolutional Neural Network](https://https://github.com/kre8tions/Malaria-Detection_CNN/blob/main/AlexChung_Malaria_Detection_Capstone_Project_Final%20Submission_Report%20Slides.pdf)
 
 In 2019, there were a reported 229 million cases of Malaria infection causing 400,000 malaria related deaths.  Creating an automated system to help with the early and accurate detection of malaria would save countless hours and associated costs over manual classification methods.  We built convolutional neural network (CNN) model to classify infected and non-infected blood cell samples from images.
 
@@ -20,6 +22,8 @@ In 2019, there were a reported 229 million cases of Malaria infection causing 40
 * The model performed the task at a significantly reduced time than it would have taken for manual detection methods.
 
 ![](https://github.com/kre8tions/Malaria-Detection_CNN/blob/main/Malaria%20Detection.PNG)
+
+
 
 ## [Analyzing and Predicting YouTube Trending Videos](https://github.com/kre8tions/Analyzing-YouTube-Trending-Videos)
 Project Goal: The goal of this project is to analyze and predict what YouTube videos are trending from a dataset scraped from YouTube’s Trending Page in order to find common characteristics of trending videos and attempt to predict and reproduce results.
