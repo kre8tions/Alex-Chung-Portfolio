@@ -1,6 +1,6 @@
 # Alex Chung's Portfolio
 
-## [Predicting Term Deposit Conversion](https://github.com/kre8tions/Apziva/blob/main/cbxr8ZpqR79rOXna/cbxr8ZpqR79rOXna.ipynb)
+## [1. Predicting Term Deposit Conversion](https://github.com/kre8tions/Apziva/blob/main/cbxr8ZpqR79rOXna/cbxr8ZpqR79rOXna.ipynb)
 
 ![](https://github.com/kre8tions/Apziva/blob/main/cbxr8ZpqR79rOXna/term-deposit-marketing.PNG)
 
@@ -15,7 +15,7 @@ Project Goal:  Our task was to analyze data from direct marketing efforts of a E
 
 
 
-## [Malaria Detection using Convolutional Neural Network](https://https://github.com/kre8tions/Malaria-Detection_CNN/blob/main/AlexChung_Malaria_Detection_Capstone_Project_Final%20Submission_Report%20Slides.pdf)
+## [2. Malaria Detection using Convolutional Neural Network](https://https://github.com/kre8tions/Malaria-Detection_CNN/blob/main/AlexChung_Malaria_Detection_Capstone_Project_Final%20Submission_Report%20Slides.pdf)
 
 ![](https://github.com/kre8tions/Malaria-Detection_CNN/blob/main/Malaria%20Detection.PNG)
 
@@ -30,7 +30,7 @@ In 2019, there were a reported 229 million cases of Malaria infection causing 40
 
 
 
-## [Analyzing and Predicting YouTube Trending Videos](https://github.com/kre8tions/Analyzing-YouTube-Trending-Videos)
+## [3. Analyzing and Predicting YouTube Trending Videos](https://github.com/kre8tions/Analyzing-YouTube-Trending-Videos)
 
 ![](https://github.com/kre8tions/Alex_Chung_Portfolio/blob/main/Images/YouTube_Trending_Video.jpg)
 
@@ -53,7 +53,7 @@ Project Goal: The goal of this project is to analyze and predict what YouTube vi
 
 
 
-## [Finding Topic Clusters thru Natural Language Processing of Covid19 Tweets](https://github.com/kre8tions/NLP-of-Covid19-Tweets)
+## [4. Finding Topic Clusters thru Natural Language Processing of Covid19 Tweets](https://github.com/kre8tions/NLP-of-Covid19-Tweets)
 
 ![](https://github.com/kre8tions/Alex_Chung_Portfolio/blob/main/Images/NLP_of_Covid19_Tweets.jpg)
 
