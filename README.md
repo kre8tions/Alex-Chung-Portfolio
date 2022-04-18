@@ -1,6 +1,6 @@
 # Alex Chung's Portfolio
 
-## [1. Malaria Detection using Convolutional Neural Network](https://https://github.com/kre8tions/Malaria-Detection_CNN/blob/main/AlexChung_Malaria_Detection_Capstone_Project_Final%20Submission_Report%20Slides.pdf)
+## [1. Malaria Detection using Convolutional Neural Network](https://github.com/kre8tions/Malaria-Detection_CNN)
 
 ![](https://github.com/kre8tions/Malaria-Detection_CNN/blob/main/Malaria%20Detection.PNG)
 
